@@ -1,0 +1,40 @@
+{
+  "friends": [
+    {
+      "id": "4f733b92-e125-11e9-81b4-2a2ae2dbcce4",
+      "name": "Theodore Roosevelt",
+      "sex": "male",
+      "isStared": true
+    },
+    {
+      "name": "Thomas Mann",
+      "isStared": true,
+      "sex": "male",
+      "id": "x_UlBq9"
+    },
+    {
+      "name": "John Doe",
+      "isStared": true,
+      "sex": "male",
+      "id": "nRpYecD"
+    },
+    {
+      "name": "Angela Merkel",
+      "isStared": false,
+      "sex": "female",
+      "id": "Y6-yxFb"
+    },
+    {
+      "name": "Donald Trump",
+      "isStared": false,
+      "sex": "male",
+      "id": "_cgtDF7"
+    },
+    {
+      "name": "Benjamin Franklin",
+      "isStared": true,
+      "sex": "male",
+      "id": "03H1M5B"
+    }
+  ]
+}
