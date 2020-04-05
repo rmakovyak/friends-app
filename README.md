@@ -66,7 +66,7 @@ ES6 is highly encouraged.
 Here is a little explanation regarding a coding challenge.
 
 I am gonna give a bit of an honest feedback to your coding challenge.
-As my personal rule, i am trying not to spend more than 4 hours on a coding challenge. I find it a bit too time consuming, and think that requirement scope can be cut in half.
+As my personal rule, i am trying not to spend more than 4 hours on a coding challenge. I find this coding challenge a bit too time consuming, and think that requirement scope can be cut in half.
 
 Therefore, I had to take some shortcuts in order to have it completed in time.
 I am gonna list them here, and I am happy to discuss and explain my strategy for them later.
